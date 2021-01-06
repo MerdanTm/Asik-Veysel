@@ -1,3 +1,11 @@
-h3 {
-    color: blueviolet;
+.grenn{
+    color:blueviolet;
+}
+.large-font{
+    font-size: 42px;
+
+}
+#navigation{
+    margin-top: 40px;
+    margin-bottom:60px ;
 }
